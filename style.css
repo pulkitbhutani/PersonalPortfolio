@@ -40,6 +40,8 @@ header
   padding-right: 0%;
   padding-top: 0%;
   padding: 6%;
+  bottom: 0;
+  margin: 0;
 }
 
 nav a {
@@ -74,7 +76,7 @@ nav a {
 
 .header{
   background-color: #000;
-  z-index: -1;
+  z-index: 1;
 }
 
 .profile-headline-title{
@@ -118,4 +120,7 @@ nav{
     font-size: 50px;
 }
   
+}
+a:hover{
+  color: grey;
 }
