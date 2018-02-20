@@ -83,6 +83,11 @@ nav a {
   color: #000;
   padding-top: 6%;
 }
+
+.main{
+position:relative;
+z-index=10;
+}
 /*@media only screen and (max-width:1600px)*/
 .g-text {
     float: none;
