@@ -88,6 +88,28 @@ nav a {
 position:relative;
 z-index=10;
 }
+
+.profile{
+}
+
+.g-section{
+}
+
+.profle-content{
+}
+
+.g-content{
+}
+
+.profile-headline{
+}
+
+.g-headline{
+}
+
+
+
+
 /*@media only screen and (max-width:1600px)*/
 .g-text {
     float: none;
