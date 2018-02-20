@@ -81,7 +81,7 @@ nav a {
 
 .profile-headline-title{
   color: #000;
-  padding-top: 6%;
+      margin:0;
 }
 
 .main{
@@ -96,6 +96,7 @@ z-index=10;
 }
 
 .profle-content{
+      padding-top: 6%;
 }
 
 .g-content{
