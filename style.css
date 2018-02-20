@@ -99,12 +99,16 @@ z-index=10;
 }
 
 .g-content{
+      
 }
 
 .profile-headline{
+      padding-top:0;
 }
 
 .g-headline{
+      max-width:640px;     
+      float:left;
 }
 
 
