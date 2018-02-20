@@ -148,6 +148,11 @@ nav{
   .g-title {
     font-size: 50px;
 }
+@media only screen and (max-width: 770px){
+      .g-title{
+      font-size: 75x;
+      }
+}
   
 }
 a:hover{
