@@ -57,7 +57,7 @@ nav a {
 
 .g-title {
     font-family: Poppins,Helvetica,Arial,sans-serif;
-    font-size: 94px;
+    font-size: 96px;
     line-height: 1.0;
     font-weight: 600;
     letter-spacing: -1px;
@@ -103,7 +103,7 @@ z-index=10;
 }
 
 .g-content{
-     padding: 6%; 
+     padding: 8%; 
 }
 
 .profile-headline{
@@ -120,15 +120,11 @@ z-index=10;
 
 
 
-/*@media only screen and (max-width:1600px)*/
-.g-text {
-    float: none;
-}
 /*media screen*/
 .g-text {
-    max-width: 640px;
-    float: right;
-    font-size: 24px;
+    max-width: 680px;
+    float: left;
+    font-size: 32px;
 }
 
 .profile-text
@@ -151,15 +147,39 @@ nav{
   position : relative;
 }
 
-@media only screen and (max-width: 500px) {
-  .g-title {
-    font-size: 50px;
-}
+
 @media only screen and (max-width: 770px){
       .g-title{
-      font-size: 75x;
+      font-size: 75px;
       }
 }
+
+@media only screen and (max-width: 720px) {
+  .g-text {
+    font-size: 24px;  
+}
+}
+
+@media only screen and (max-width: 660px) {
+  .g-title {
+    font-size: 60px;
+}
+}
+
+@media only screen and (max-width: 570px) {
+  .g-title {
+    font-size: 45px;  
+}
+}
+
+@media only screen and (max-width: 460px) {
+  .g-title {
+    font-size: 35px;  
+}
+}
+
+
+
   
 }
 a:hover{
