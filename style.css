@@ -81,7 +81,8 @@ nav a {
 
 .profile-headline-title{
   color: #000;
-      margin:0;
+  margin:0;
+  position: relative;
 }
 
 .main{
@@ -93,6 +94,8 @@ z-index=10;
 }
 
 .g-section{
+  padding-bottom: 8%;
+  position: relative;
 }
 
 .profle-content{
@@ -106,10 +109,14 @@ z-index=10;
 .profile-headline{
 }
 
-.g-headline{
-      max-width:640px;
+.g-headline {
+    /* max-width: 640px; */
+    padding: 0;
+    margin-bottom: 8%;
+    position: relative;
+    top: 0;
+    left: 0;
 }
-
 
 
 
